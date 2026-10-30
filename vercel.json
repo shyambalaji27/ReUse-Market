@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "reuse-market",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
+
